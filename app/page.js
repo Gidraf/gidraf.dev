@@ -192,7 +192,7 @@ export default function Home() {
         <div className="shell">
           <div className="section-head reveal">
             <div className="eyebrow">02 — Experience</div>
-            <h2 className="section-title">Six years, five teams,<br />one throughline.</h2>
+            <h2 className="section-title">9+ years, five teams,<br />one throughline.</h2>
             <p className="section-lead">
               From card payments to core banking to agri-tech — a consistent pattern of
               architecting reliable systems and lifting how teams deliver.
